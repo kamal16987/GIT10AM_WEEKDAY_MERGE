@@ -6,6 +6,10 @@ public class BaseClass {
 		System.out.println("created a Baseclass");
 
 	}
+	
+	public void selectDropdown() {
+		
+	}
 
 	
 	public void selectCheckbox() {
