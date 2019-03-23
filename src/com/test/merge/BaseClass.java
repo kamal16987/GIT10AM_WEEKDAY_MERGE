@@ -7,4 +7,12 @@ public class BaseClass {
 
 	}
 
+	
+	public void selectCheckbox() {
+		
+	}
+	
+	public void launchBrowser() {
+		
+	}
 }
