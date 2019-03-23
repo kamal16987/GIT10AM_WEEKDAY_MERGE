@@ -6,20 +6,17 @@ public class BaseClass {
 		System.out.println("I Not assfigafuibgdfgadgfgdhkcgdhk");
 
 	}
-	
-	public void selectDropdown() {
-		System.out.println("I Not assfigafuibgdfgadgfgdhkcgdhk");
 
+	public void selectDropdown_123() {
+		System.out.println("I did master changes");
 	}
 
 	
-	public void selectCheckbox() {
-		System.out.println("I Not assfigafuibgdfgadgfgdhkcgdhk");
-
+	public void selectCheckbox_234() {
+		System.out.println("I did master changes");
 	}
 	
-	public void launchBrowser() {
-		System.out.println("I Not assfigafuibgdfgadgfgdhkcgdhk");
-
+	public void launchBrowser_232() {
+		System.out.println("I did master changes");
 	}
 }
